@@ -56,7 +56,7 @@ education:
   - area: PhD in Applied Mathematics and Statistics
     institution: Johns Hopkins University
     date_start: 2022-09-01
-    date_end: Now
+    date_end: 2027-05-31
   - area: M.S.E in Data Science
     institution: Johns Hopkins University
     date_start: 2021-09-01
