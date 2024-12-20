@@ -10,9 +10,9 @@
     color: hsl(0, 0%, 100%); /* Sets the text color to white */
 }
 
-.flex {
-    max-width: 100%; /* Allow the container to take more space */
-    width: auto;     /* Adjust width constraints */
+.course{
+    white-space: nowrap;
+}
 
 .flex-shrink-0 {
     color: hsl(0, 0%, 100%); /* Sets the text color to white */
