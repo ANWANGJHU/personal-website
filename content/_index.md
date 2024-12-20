@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: kseniya-lapteva-4z6aiI9WJsw-unsplash.jpg
+          filename: kseniya-lapteva-eOYmgkGu-Ko-unsplash.jpg
           filters:
             brightness: 1.0
           size: cover
