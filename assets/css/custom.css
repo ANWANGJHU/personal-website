@@ -3,3 +3,7 @@
     font-weight: bold;
     
 }
+
+.grid {
+    color: hsl(0, 0%, 100%); /* Sets the text color to white */
+}
