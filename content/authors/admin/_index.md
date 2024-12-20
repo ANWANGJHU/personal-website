@@ -53,7 +53,7 @@ interests:
 
 
 education:
-  - area: PhD in Applied Mathematics and Statistics
+  - area: Ph.D. in Applied Mathematics and Statistics
     institution: Johns Hopkins University
     date_start: 2022-09-01
     date_end: 2027-05-31
