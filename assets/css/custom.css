@@ -11,3 +11,11 @@
 .list-disc {
     color: hsl(0, 0%, 100%); /* Sets the text color to white */
 }
+
+.flex-shrink-0 {
+    color: hsl(0, 0%, 100%); /* Sets the text color to white */
+}
+
+.description {
+    color: hsl(0, 0%, 100%); /* Sets the text color to white */
+}
