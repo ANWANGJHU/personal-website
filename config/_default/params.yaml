@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: dark
-  color: emerald
+  mode: system
+  color: black
 
 # SEO
 marketing:
