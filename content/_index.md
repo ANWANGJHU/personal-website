@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: han-chenxu-Sn-L_Ol4iSA-unsplash.jpg
+          filename: mario-ho-vV2A5OHUqsU-unsplash.jpg
           filters:
             brightness: 1.0
           size: cover
