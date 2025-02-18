@@ -1,13 +1,13 @@
 .bio-text {
-    color: hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 100%);
 }
 
 .section-subheading {
-    color: hsl(0, 0%, 0%); /* Sets the text color to white */
+    color: hsl(0, 0%, 100%); /* Sets the text color to white */
 }
 
 .list-disc {
-    color: hsl(0, 0%, 0%); /* Sets the text color to white */
+    color: hsl(0, 0%, 100%); /* Sets the text color to white */
 }
 
 .course{
@@ -15,9 +15,9 @@
 }
 
 .flex-shrink-0 {
-    color: hsl(0, 0%, 0%); /* Sets the text color to white */
+    color: hsl(0, 0%, 100%); /* Sets the text color to white */
 }
 
 .description {
-    color: hsl(0, 0%, 0%); /* Sets the text color to white */
+    color: hsl(0, 0%, 100%); /* Sets the text color to white */
 }
