@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+       I am a computational biologist passionate about applying advanced mathematical modeling to uncover complex patterns in genomics data, with a focus on understanding disease mechanisms—especially in cancer—and driving real clinical impact.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Currently, my research leverages combinatorial optimization to identify informative marker genes in single-cell RNA sequencing and spatial transcriptomics data, both in label-based and label-free settings. Looking ahead, I am excited to explore deep generative models for spatial transcriptomics to study transcriptional dynamics within cellular landscapes, investigate cell-cell interactions, and uncover gene regulatory networks.
+
+        I welcome collaborations—feel free to reach out!
     design:
       columns: '1'
   - block: collection
