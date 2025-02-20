@@ -2,6 +2,9 @@
 title: "GeneCover: A Combinatorial Approach for Label-free Marker Gene Selection"
 authors:
 - admin
+- Stephanie Hicks
+- Donald Geman
+- Laurent Younes
 date: "2025-02-19T00:00:00Z"
 doi: ""
 
