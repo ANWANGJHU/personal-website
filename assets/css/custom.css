@@ -21,23 +21,3 @@
 .description {
     color: hsl(0, 0%, 100%); /* Sets the text color to white */
 }
-
-/* Ensure images fit within their container without cropping */
-img {
-    object-fit: contain !important;  /* Display the whole image without cropping */
-    max-width: 100%;                 /* Limit image width to its container */
-    height: auto;                    /* Keep the aspect ratio */
-    image-rendering: auto;           /* Improve image quality */
-}
-
-/* Optional: Remove absolute positioning that causes cropping */
-img[data-nimg="fill"] {
-    position: static !important;
-}
-
-/* Improve image clarity */
-img {
-    image-rendering: crisp-edges;  /* Sharper display for pixel art or diagrams */
-    -webkit-filter: none;          /* Remove any browser image filters */
-    filter: none;
-}
