@@ -45,7 +45,7 @@ url_code: https://github.com/ANWANGJHU/GeneCover
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: ''
-  focal_point: 
+  focal_point: "Center"
   preview_only: false
   placement: 3
 #placement: 3 will ensure high res image
