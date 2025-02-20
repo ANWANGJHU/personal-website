@@ -23,7 +23,7 @@ authors:
 #   - 'Johns Hopkins University'
 #   - 'Johns Hopkins University'
 
-date: '2024-08-018T00:00:00Z'
+date: '2024-08-18T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
