@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-       I am a computational biologist passionate about applying advanced mathematical modeling to uncover complex patterns in genomics data, with a focus on understanding disease mechanisms—especially in cancer—and driving real clinical impact.
+       I am a computational biologist passionate about applying advanced mathematical modeling to uncover complex patterns in genomics data, with a focus on understanding disease mechanisms, especially in cancer, and driving real clinical impact.
 
         Currently, my research leverages combinatorial optimization to identify informative marker genes in single-cell RNA sequencing and spatial transcriptomics data, both in label-based and label-free settings. Looking ahead, I am excited to explore deep generative models for spatial transcriptomics to study transcriptional dynamics within cellular landscapes, investigate cell-cell interactions, and uncover gene regulatory networks.
 
